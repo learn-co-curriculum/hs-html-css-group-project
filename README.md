@@ -38,4 +38,15 @@ Things your page must have:
 
 **4** An unordered or ordered list
 
-**5**   
+copyright in the bottom right corner
+
+header and footer saem on all pages
+
+header with h1-h6 tags
+
+1 opaque image
+border around header or footer
+
+background color on 1 page
+
+bonus: embed video or sound
