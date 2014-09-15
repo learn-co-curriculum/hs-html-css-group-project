@@ -16,7 +16,7 @@ A choose your own adventure game is written from 2nd person point of view ('you'
 
 Still confused? Check out [this](http://pbskids.org/itsmylife/games/mortifying/) example.
 
-Your goal is to build out as many options for your reader as possible. 
+Your goal is to build out as many options for your reader as possible.
 
 ### The Steps:
 
@@ -24,29 +24,30 @@ You must spend 30 minutes planning your site. Planning is two-fold:
 
 **1** Your group must build out a story board for your game. A storyboard is a graphic representation of the plot, like [this](https://www.teachervision.com/creative-writing/activity/3139.html).
 
-**2**
+**2** Your group must build out a wireframe for the actual website. A wireframe is like a blueprint. It's a visual representation of the skeletal framework of the site. You don't need to create a wireframe for every page, but just have a general outline for what you want your site to look like. Here's an example:
+<img src="http://www.kimbieler.com/wp-content/uploads/2012/03/athayde-homepage.jpg">
 
-###The stipulations:
+###The Stipulations:
 Things your page must have:
 
-**1** Correct HTML structure (doctype, html, head, title, and  body tags)
+1. Correct HTML structure (doctype, html, head, title, and body tags)
 
-**2** 3 different fonts (from Google Fonts or not)
+2. 3 different fonts (from Google Fonts or not)
 
-**3** A centered image
+3. A centered image
 
-**4** An unordered or ordered list
+4. An unordered or ordered list
 
-**5** copyright in the bottom right corner
+5. Copyright in the bottom right corner
 
-**6** header and footer same on all pages
+6. Header and footer (same on all pages)
 
-**7** header with h1-h6 tags
+7. Header with h1-h6 tags
 
-**8** 1 opaque image
+8. 1 opaque image
 
-**9** border around header or footer
+9. Border around header or footer
 
-**10** background color on 1 page
+10. Background color on 1 page
 
-**11** bonus: embed video or sound
+BONUS! Embedded video or sound
