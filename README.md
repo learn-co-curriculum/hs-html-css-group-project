@@ -26,7 +26,6 @@ You must spend 30 minutes planning your site. Planning is two-fold:
 
 **2**
 
-
 ###The stipulations:
 Things your page must have:
 
@@ -38,15 +37,16 @@ Things your page must have:
 
 **4** An unordered or ordered list
 
-copyright in the bottom right corner
+**5** copyright in the bottom right corner
 
-header and footer saem on all pages
+**6** header and footer same on all pages
 
-header with h1-h6 tags
+**7** header with h1-h6 tags
 
-1 opaque image
-border around header or footer
+**8** 1 opaque image
 
-background color on 1 page
+**9** border around header or footer
 
-bonus: embed video or sound
+**10** background color on 1 page
+
+**11** bonus: embed video or sound
