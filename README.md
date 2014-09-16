@@ -27,27 +27,29 @@ You must spend 30 minutes planning your site. Planning is two-fold:
 **2** Your group must build out a wireframe for the actual website. A wireframe is like a blueprint. It's a visual representation of the skeletal framework of the site. You don't need to create a wireframe for every page, but just have a general outline for what you want your site to look like. Here's an example:
 <img src="http://www.kimbieler.com/wp-content/uploads/2012/03/athayde-homepage.jpg">
 
+If you're super interested in learning more about wireframes, check out [Balsamiq](https://balsamiq.com/). It's a pretty cool web app that lets you build wireframes in the browser.
+
 ###The Stipulations:
-Things your page must have:
+Things your page(s) must have:
 
-1. Correct HTML structure (doctype, html, head, title, and body tags)
+**1.** Correct HTML structure (doctype, html, head, title, and body tags)
 
-2. 3 different fonts (from Google Fonts or not)
+**2.** Three different fonts (from Google Fonts or not)
 
-3. A centered image
+**3.** A centered image
 
-4. An unordered or ordered list
+**4.** An unordered or ordered list
 
-5. Copyright in the bottom right corner
+**5.** Copyright in the bottom right corner
 
-6. Header and footer (same on all pages)
+**6.** Header and footer (same on all pages)
 
-7. Header with h1-h6 tags
+**7.** Header with h1-h6 tags
 
-8. 1 opaque image
+**8.** One opaque image
 
-9. Border around header or footer
+**9.** Border around header or footer
 
-10. Background color on 1 page
+**10.** Background color on 1 page
 
-BONUS! Embedded video or sound
+**BONUS!** Embed a video or sound
