@@ -20,14 +20,12 @@ Your goal is to build out as many options for your reader as possible.
 
 ### The Steps:
 
-You must spend 30 minutes planning your site. Planning is two-fold:
-
-**1** Your group must build out a story board for your game. A storyboard is a graphic representation of the plot, like [this](https://www.teachervision.com/creative-writing/activity/3139.html).
+**1** Your group must build out a story board for your game. A storyboard is a graphic representation of the plot, like [this](https://www.teachervision.com/creative-writing/activity/3139.html). Don't worry, we'll go into it more in depth.
 
 **2** Your group must build out a wireframe for the actual website. A wireframe is like a blueprint. It's a visual representation of the skeletal framework of the site. You don't need to create a wireframe for every page, but just have a general outline for what you want your site to look like. Here's an example:
 <img src="http://www.kimbieler.com/wp-content/uploads/2012/03/athayde-homepage.jpg">
 
-If you're super interested in learning more about wireframes, check out [Balsamiq](https://balsamiq.com/). It's a pretty cool web app that lets you build wireframes in the browser.
+Again, we'll tackle this more in depth as a group.
 
 ###The Stipulations:
 Things your page(s) must have:
