@@ -1,9 +1,4 @@
----
-tags: html, css, kids, group-project
-languages: html, css
-type: group-project
-level: 1 
----
+
 
 ## HTML/CSS GROUP PROJECT
 
