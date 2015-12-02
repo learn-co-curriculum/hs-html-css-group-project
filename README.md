@@ -46,3 +46,5 @@ Things your page(s) must have:
 **10.** Background color on 1 page
 
 **BONUS!** Embed a video or sound
+
+<a href='https://learn.co/lessons/hs-html-css-group-project' data-visibility='hidden'>View this lesson on Learn.co</a>
