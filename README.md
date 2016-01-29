@@ -47,4 +47,4 @@ Things your page(s) must have:
 
 **BONUS!** Embed a video or sound
 
-<a href='https://learn.co/lessons/hs-html-css-group-project' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-html-css-group-project' title='HTML/CSS GROUP PROJECT'>HTML/CSS GROUP PROJECT</a> on Learn.co and start learning to code for free.</p>
